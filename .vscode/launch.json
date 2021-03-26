@@ -1,0 +1,13 @@
+{
+    "version": "0.0.1",
+    "configurations": [
+        {
+            "name": "Set Pipenv to Store venv in project",
+            "type": "node",
+            "request": "launch",
+            "env": {
+                "PIPENV_VENV_IN_PROJECT": "true",
+            }
+        }
+    ]
+  }
